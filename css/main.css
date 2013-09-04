@@ -1,0 +1,23 @@
+#hotelSearchForm {
+	margin: 0 0 0 0;
+	
+}
+
+#searchByDestination {
+	height: 40px;
+}
+
+#progressBar {
+	display: none;
+	
+}
+
+/**
+ * 
+ * Override Bootstrap	
+ * 
+ */
+.glyphicon {
+	margin-right:6px;
+}
+
